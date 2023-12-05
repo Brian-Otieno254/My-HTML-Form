@@ -136,7 +136,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-git clone 
+git clone https://github.com/Brian-Otieno254/My-HTML-Form.git
 <!--
 Example commands:
 
@@ -149,7 +149,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+Not for installing.
 <!--
 Example command:
 
@@ -162,7 +162,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-
+Live Server 5
 <!--
 Example command:
 
@@ -186,7 +186,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-
+Not yet deployed.
 <!--
 Example:
 
@@ -205,7 +205,7 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@Brian-Otieno254](https://github.com/Brian-Otieno254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -223,9 +223,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **More Styling**
+- [ ] **Adding a Formspree**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,7 +244,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
