@@ -207,7 +207,7 @@ Example:
 
 - GitHub: [@Brian-Otieno254](https://github.com/Brian-Otieno254)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/brian-otieno-4679272a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTyxAI7hHTB%2BXK0paMNIJgQ%3D%3D)
 
 👤 **Author2**
 
@@ -244,7 +244,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project 
+If you like this project follow and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,7 +254,7 @@ If you like this project
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank you all for the support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
